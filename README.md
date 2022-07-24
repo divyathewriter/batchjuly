@@ -1,0 +1,2 @@
+# batchjuly
+Class_test
