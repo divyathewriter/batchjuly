@@ -24,6 +24,7 @@ body = ... & requests & ...
 
 ...batchUpdate(body)
 ```
+
 |S.No| Name | Class|
 |---|---|---|
 |1| Divya | II std|
